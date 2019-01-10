@@ -71,6 +71,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/voodootikigod/logo.js/master/nashvillejs/nashvillejs.png" width="200" />
 
 ---
+### STL JS (#f3df49 and #2e2e2c with #c2b121) [stl.js.org](https://stl.js.org/)
+<img src="stl-js/stl-js.png" width="200" />
+
+---
 ### noogaJS [http://noogajs.org](http://noogajs.org)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/noogajs/noogajs.png" width="200" />
 
